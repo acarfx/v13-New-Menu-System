@@ -1,5 +1,5 @@
 const { MessageEmbed, MessageButton, MessageActionRow,  MessageSelectMenu } = require("discord.js");
-const Custom = require('./model.js')
+const Custom = require('./_model.js')
 module.exports = {
     name: "menü",
     aliases: [],
